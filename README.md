@@ -1,4 +1,4 @@
-# Union Bank Database Design (SQL)
+# Union Bank Loan Database Design (SQL)
 
 This project focuses on designing a relational database for a union bank loan management system using SQL. The database was created to support structured storage and retrieval of loan-related data while maintaining data integrity through normalized tables, primary keys, foreign keys, and constraints.
 
