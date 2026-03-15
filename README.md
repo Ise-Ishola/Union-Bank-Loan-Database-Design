@@ -21,3 +21,6 @@ The goal of this project was to design a database schema for a banking loan syst
 
 ## Outcome
 This project demonstrates foundational SQL and database design skills, including schema creation, table relationships, and data integrity enforcement for a banking use case.
+
+## Stakeholder Feedback
+Stakeholders noted that the database design created a reliable structure for storing and managing borrower and loan information. The normalized schema and clearly defined table relationships improved data consistency and made it easier to maintain accurate financial records. The structure also supports scalable querying for reporting and analytical use cases.
